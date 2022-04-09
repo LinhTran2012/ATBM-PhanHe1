@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\ATBM1\ATBM1\bin\Debug\ATBM1.exe.config
+C:\Users\DELL\Desktop\ATBM1\ATBM1\bin\Debug\ATBM1.exe
+C:\Users\DELL\Desktop\ATBM1\ATBM1\bin\Debug\ATBM1.pdb
+C:\Users\DELL\Desktop\ATBM1\ATBM1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.Form1.resources
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.Properties.Resources.resources
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.csproj.CopyComplete
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.exe
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.pdb
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.Form2.resources
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.Form3.resources
+C:\Users\DELL\Desktop\ATBM1\ATBM1\obj\Debug\ATBM1.Form4.resources
